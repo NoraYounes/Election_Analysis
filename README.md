@@ -29,6 +29,7 @@ In order to perform the election audit, Python script was written as shown in th
 - A with statement was used to open the election analysis text file so that we can write the data to it. 
 - A for loop was used to loop through the counties to retrieve the vote count and percentage per county. An if statement was used to determine the largest county voter turnout. The results were then printed and written to the analysis file.  
 - A for loop was used to loop through the candidates to retrieve the vote count and percentage per candidate. An if statement was used to determine the winning candidate and their respective votes and percentage. The results were then printed and written to the analysis file. 
+
 ![Py_Poll_Code3](https://user-images.githubusercontent.com/78664640/111922382-d84f2300-8a6f-11eb-8b0f-1a7fbe79c852.png)
 ![Py_Poll_Code4](https://user-images.githubusercontent.com/78664640/111921547-8dcba780-8a6b-11eb-9faf-9a1fc168da56.png)
 
